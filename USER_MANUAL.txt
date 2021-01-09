@@ -1,0 +1,11 @@
+
+Just run index.html some data is already preloaded.
+
+1# Run scrapers.js
+2# it will get all data from ragezone forum on topic kalonline server 2006
+3# aprox 27 pages with 15 comments on each page will be stored in array of arrays type  pages[posts['post']...]
+4# result is written to JSONforum_pages.txt local file
+5# copy that string into index.html <script></script> ****replace const data = value...*****
+6# refresh
+
+Just run index.html some data is already preloaded.
